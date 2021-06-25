@@ -2,5 +2,4 @@
 
 This is my personal page. -> https://www.leewei.co/
 
-- 🔭 Site Reliability Engineer at [17Live](https://github.com/17media)
 - 📫  How to reach me: lee10202013@gmail.com
